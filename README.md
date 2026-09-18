@@ -4,6 +4,7 @@ Jacobian lens bias project
 # Contributions
 - 01: https://github.com/Cohere-Labs-Community/j-lens-bias/pull/4
 - 02: https://github.com/Cohere-Labs-Community/j-lens-bias/pull/25
+- 03: https://github.com/Cohere-Labs-Community/j-lens-bias/pull/49
 
 # RESULTS:
 
